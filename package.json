@@ -44,7 +44,7 @@
     ".gitignore"
   ],
   "dependencies": {
-    "loader-utils": "^3.2.1",
+    "loader-utils": "^2.0.0",
     "papaparse": "^5.4.1"
   },
   "devDependencies": {
